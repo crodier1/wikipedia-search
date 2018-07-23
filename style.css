@@ -1,0 +1,16 @@
+.wikiImage{
+    width: 35%;
+    
+  }
+  
+  #searchTerm{
+    width: 50%;
+      }
+  
+  #search{
+    margin-top: 10px;
+  }
+  
+  span{
+    font-size: 200%;
+  }
